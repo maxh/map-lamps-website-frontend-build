@@ -1,27 +1,27 @@
 {
   "files": {
     "main.css": "/static/css/main.073c6f4f.chunk.css",
-    "main.js": "/static/js/main.42fb1680.chunk.js",
-    "main.js.map": "/static/js/main.42fb1680.chunk.js.map",
+    "main.js": "/static/js/main.e35df7e2.chunk.js",
+    "main.js.map": "/static/js/main.e35df7e2.chunk.js.map",
     "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
     "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
     "static/css/2.18585a14.chunk.css": "/static/css/2.18585a14.chunk.css",
     "static/js/2.f2efb721.chunk.js": "/static/js/2.f2efb721.chunk.js",
     "static/js/2.f2efb721.chunk.js.map": "/static/js/2.f2efb721.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.cb539ff2f3891a8c100efcb08ea433f5.js": "/precache-manifest.cb539ff2f3891a8c100efcb08ea433f5.js",
+    "precache-manifest.b8473b2411f4e9fa79e8c84c091a728b.js": "/precache-manifest.b8473b2411f4e9fa79e8c84c091a728b.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.18585a14.chunk.css.map": "/static/css/2.18585a14.chunk.css.map",
     "static/css/main.073c6f4f.chunk.css.map": "/static/css/main.073c6f4f.chunk.css.map",
-    "static/media/brick.jpg": "/static/media/brick.29652b6d.jpg",
-    "static/media/lake.jpg": "/static/media/lake.a74c541e.jpg",
-    "static/media/manhattan-tree.jpg": "/static/media/manhattan-tree.2b82d056.jpg",
+    "static/media/brick.jpg": "/static/media/brick.c83b4f9f.jpg",
+    "static/media/lake.jpg": "/static/media/lake.524a0625.jpg",
+    "static/media/manhattan-tree.jpg": "/static/media/manhattan-tree.b96ef0a0.jpg",
     "static/media/max_and_karl.jpg": "/static/media/max_and_karl.da6b3bea.jpg",
-    "static/media/sf-clipped.png": "/static/media/sf-clipped.ed49d479.png",
+    "static/media/sf-clipped.jpg": "/static/media/sf-clipped.919b312e.jpg",
     "static/media/slick-theme.css": "/static/media/slick.f97e3bbf.svg",
-    "static/media/tree.jpg": "/static/media/tree.427e88c5.jpg",
-    "static/media/white-background-chicago.png": "/static/media/white-background-chicago.f5372609.png",
-    "static/media/white-background-manhattan.png": "/static/media/white-background-manhattan.8c181051.png",
-    "static/media/white.jpg": "/static/media/white.da29db6f.jpg"
+    "static/media/tree.jpg": "/static/media/tree.728ee474.jpg",
+    "static/media/white-background-chicago.png": "/static/media/white-background-chicago.d31a43df.png",
+    "static/media/white-background-manhattan.png": "/static/media/white-background-manhattan.ad950565.png",
+    "static/media/white.jpg": "/static/media/white.58e115dd.jpg"
   }
 }
